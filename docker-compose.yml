@@ -1,6 +1,6 @@
 version: '3'
 services:
-  applicationserver:
-    image:phdsagars/maven-petclinic
-    ports:
-    - "9150:8080"
+ applicationserver:
+  image:phdsagars/maven-petclinic
+  ports:
+  - "9150:8080"
